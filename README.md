@@ -18,3 +18,11 @@ If you are developing a production application, we recommend using TypeScript an
 * Select "Javascript"
 * >> npm install
 * >> npm run dev
+
+## Learning
+* React is Composable 
+Ability to combine smaller independent components to create complex user interface.
+* React is Declarative. 
+Unlike imperative, where every step needs to be mentioned explicitly, React is Declarative. It can figure out once we 
+declare what is the requirement. 
+* 
